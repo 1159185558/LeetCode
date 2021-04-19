@@ -1,0 +1,7 @@
+#idea文件
+*.iml
+*.idea
+out
+
+#项目文件
+src/leetcode/editor/cn/doc
